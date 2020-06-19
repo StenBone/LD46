@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sten_bone/locals/LD46/Constants.h
+
+/home/sten_bone/locals/LD46/Game.cpp
+iostream
+-
+vector
+-
+Game.h
+/home/sten_bone/locals/LD46/Game.h
+
+/home/sten_bone/locals/LD46/Game.h
+SDL2/SDL.h
+-
+Constants.h
+/home/sten_bone/locals/LD46/Constants.h
+

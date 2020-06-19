@@ -1,0 +1,3 @@
+/home/sten_bone/locals/LD46/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sten_bone/locals/LD46/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sten_bone/locals/LD46/cmake-build-debug/CMakeFiles/LD46.dir

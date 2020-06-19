@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LD46.dir/Main.cpp.o CMakeFiles/LD46.dir/Game.cpp.o  -o LD46  -lSDL2 
